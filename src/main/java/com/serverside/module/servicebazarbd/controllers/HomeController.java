@@ -9,6 +9,7 @@ import com.serverside.module.servicebazarbd.entities.Products;
 import com.serverside.module.servicebazarbd.repositories.CategoriesRepository;
 import com.serverside.module.servicebazarbd.repositories.ProductRepository;
 import com.serverside.module.servicebazarbd.services.ProductService;
+import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -58,7 +59,7 @@ public class HomeController {
         //List<Categories> categories = categoriesRepository.findByType(slug);
         long endTime = System.nanoTime();
         long duration = (endTime - startTime);
-        System.out.println(duration/1000000 + " ms");
+        System.out.println(duration / 1000000 + " ms");
         return productDto;
     }
 
@@ -71,5 +72,11 @@ public class HomeController {
             return x;
         }).collect(Collectors.toList());
         return categoriesWithTypeDtoList;
+    }
+
+    @GetMapping(value = "/hello", produces = MediaType.TEXT_PLAIN_VALUE)
+    public String sayHello() {
+
+        return "Hello there!";
     }
 }
