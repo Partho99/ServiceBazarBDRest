@@ -1,0 +1,10 @@
+2021-03-31 11:04:08 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 8384 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-31 11:04:08 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-31 11:04:08 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-31 11:04:09 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-31 11:04:12 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 4.047 seconds (JVM running for 4.424)

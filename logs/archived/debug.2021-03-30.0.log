@@ -1,0 +1,370 @@
+2021-03-30 12:26:04 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 13363 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:26:04 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:26:04 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:26:05 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:30:10 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 14218 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:30:10 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:30:10 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:30:11 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:33:59 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 14923 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:33:59 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:33:59 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:34:00 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:34:02 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.247 seconds (JVM running for 3.542)
+2021-03-30 12:43:27 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 16000 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:43:27 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:43:27 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:43:28 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:43:55 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 16095 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:43:55 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:43:55 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:43:57 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:43:59 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.265 seconds (JVM running for 3.547)
+2021-03-30 12:45:30 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 16390 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:45:30 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:45:30 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:45:31 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:45:33 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.266 seconds (JVM running for 3.564)
+2021-03-30 12:46:58 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 16674 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:46:58 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:46:58 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:46:59 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:47:01 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.261 seconds (JVM running for 3.549)
+2021-03-30 12:52:33 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 17128 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:52:33 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:52:33 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:52:34 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:52:36 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.214 seconds (JVM running for 3.495)
+2021-03-30 12:53:53 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 17317 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:53:53 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:53:53 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:53:55 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:53:57 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.371 seconds (JVM running for 3.671)
+2021-03-30 12:59:47 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 17943 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 12:59:47 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 12:59:47 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 12:59:48 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 12:59:50 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.254 seconds (JVM running for 3.542)
+2021-03-30 13:33:57 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 19567 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 13:33:57 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 13:33:57 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 13:33:59 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 13:34:01 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.324 seconds (JVM running for 3.605)
+2021-03-30 20:32:51 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 15935 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:32:51 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:32:51 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:32:52 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 20:32:55 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.96 seconds (JVM running for 4.45)
+2021-03-30 20:45:12 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 16944 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:45:12 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:45:12 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:45:14 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 20:45:39 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 17252 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:45:39 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:45:39 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:45:40 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 20:50:18 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 17769 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:50:18 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:50:18 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:50:19 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 20:50:38 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 17860 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:50:38 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:50:38 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:50:39 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 20:51:19 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 17962 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:51:19 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:51:19 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:51:20 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 20:52:23 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 18133 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:52:23 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:52:23 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:52:24 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 20:52:42 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 18234 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:52:42 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:52:42 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:52:43 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 20:56:39 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 18821 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:56:39 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:56:39 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:56:40 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 20:58:05 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 19093 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 20:58:05 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 20:58:05 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 20:58:06 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:00:21 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 19275 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:00:21 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:00:21 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:00:22 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:02:19 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 19568 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:02:19 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:02:19 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:02:20 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:03:12 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 19736 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:03:12 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:03:12 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:03:13 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:08:25 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 20647 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:08:25 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:08:25 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:08:26 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:08:28 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.251 seconds (JVM running for 3.601)
+2021-03-30 21:10:27 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 20979 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:10:27 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:10:27 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:10:28 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:10:30 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.202 seconds (JVM running for 3.511)
+2021-03-30 21:11:49 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 21228 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:11:49 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:11:49 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:12:27 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 21338 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:12:27 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:12:27 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:12:28 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:13:02 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 21467 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:13:02 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:13:02 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:13:03 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:15:12 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 21772 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:15:12 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:15:12 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:15:13 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:15:15 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.242 seconds (JVM running for 3.543)
+2021-03-30 21:18:55 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 22218 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 21:18:55 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 21:18:55 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 21:18:56 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 21:18:58 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.359 seconds (JVM running for 3.651)
+2021-03-30 22:01:26 [http-nio-5050-exec-8] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : getCategories()arguments : ["grocery"]
+2021-03-30 22:01:26 [http-nio-5050-exec-8] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : getCategories()Response : [{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","type":"grocery","icon":"FruitsVegetable","children":[{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]}]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","type":"grocery","icon":"MeatFish","children":[{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":10,"title":"Meat","slug":"meat","product":[]}]},{"id":11,"title":"Snacks","slug":"snacks","type":"grocery","icon":"Snacks","children":[{"id":17,"title":"Pasta","slug":"pasta","product":[]},{"id":19,"title":"Soup","slug":"soup","product":[]},{"id":16,"title":"Nuts","slug":"nuts","product":[]},{"id":13,"title":"Chocolates","slug":"chocolates","product":[]},{"id":14,"title":"Crisps","slug":"crisps","product":[]},{"id":12,"title":"Biscuits","slug":"biscuits","product":[]},{"id":18,"title":"Sauce","slug":"sauce","product":[]},{"id":15,"title":"Noodles","slug":"noodles","product":[]}]},{"id":20,"title":"Pet Care","slug":"petcare","type":"grocery","icon":"PetCare","children":[{"id":22,"title":"Dog Food","slug":"dogfood","product":[]},{"id":21,"title":"Cat Food","slug":"catfood","product":[]},{"id":24,"title":"Pet Accessories","slug":"petaccessories","product":[]},{"id":23,"title":"Kitten Food","slug":"kittenfood","product":[]}]}]
+2021-03-30 22:03:06 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 23797 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 22:03:06 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 22:03:06 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 22:03:07 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 22:03:44 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 23943 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 22:03:44 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 22:03:44 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 22:03:45 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 22:03:47 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.308 seconds (JVM running for 3.651)
+2021-03-30 22:04:23 [http-nio-5050-exec-8] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-30 22:04:23 [http-nio-5050-exec-8] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-30 22:04:23 [http-nio-5050-exec-8] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 15
+2021-03-30 22:06:34 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 24502 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 22:06:34 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 22:06:34 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 22:06:35 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 22:07:34 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 24803 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 22:07:34 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 22:07:34 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 22:07:35 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 22:07:37 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.573 seconds (JVM running for 3.839)
+2021-03-30 22:09:29 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 25444 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 22:09:29 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 22:09:29 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 22:09:30 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 22:09:32 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.394 seconds (JVM running for 3.658)
+2021-03-30 22:12:08 [http-nio-5050-exec-10] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-30 22:12:08 [http-nio-5050-exec-10] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-30 22:12:08 [http-nio-5050-exec-10] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 13
+2021-03-30 22:41:43 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 27688 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 22:41:43 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 22:41:43 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 22:41:44 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 22:41:46 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.369 seconds (JVM running for 3.651)
+2021-03-30 22:43:01 [http-nio-5050-exec-6] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()arguments : ["grocery"]
+2021-03-30 22:43:01 [http-nio-5050-exec-6] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()Response : [{"id":1,"title":"lime","slug":"lime","unit":"12 pc(s)","price":1.5,"salePrice":0.0,"discountInPercent":0.0,"description":"The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg","gallery":[{"url":" https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"}],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":2,"title":"Cherry","slug":"Cherry","unit":"0.5 lb","price":2.0,"salePrice":0.0,"discountInPercent":0.0,"description":"A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg","gallery":[{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"}],"categories":[{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":3,"title":"Signature Salmon","slug":"signaturesalmon","unit":"1 lb","price":4.95,"salePrice":0.0,"discountInPercent":0.0,"description":"Salmon is a common food classified as an oily fish with a rich content of protein and omega-3 fatty acids","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg","gallery":[],"categories":[{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]}]},{"id":4,"title":"Cod Fillet","slug":"codfillet","unit":"1 lb","price":10.0,"salePrice":7.5,"discountInPercent":25.0,"description":"Cod is the common name for the demersal fish genus Gadus, belonging to the family Gadidae. Cod is also used as part of the common name for a number of other fish species, and some species suggested to belong to genus Gadus are not called cod.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg","gallery":[],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]}]},{"id":5,"title":"Fresh Beef","slug":"beef","unit":"1 lb","price":6.0,"salePrice":0.0,"discountInPercent":0.0,"description":"Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/beef_xkxhnb.jpg","gallery":[],"categories":[{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":10,"title":"Meat","slug":"meat","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":10,"title":"Meat","slug":"meat","product":[]}]}]
+2021-03-30 22:43:41 [http-nio-5050-exec-10] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()arguments : ["grocery"]
+2021-03-30 22:43:41 [http-nio-5050-exec-10] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()Response : [{"id":1,"title":"lime","slug":"lime","unit":"12 pc(s)","price":1.5,"salePrice":0.0,"discountInPercent":0.0,"description":"The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg","gallery":[{"url":" https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"}],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":2,"title":"Cherry","slug":"Cherry","unit":"0.5 lb","price":2.0,"salePrice":0.0,"discountInPercent":0.0,"description":"A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg","gallery":[{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"}],"categories":[{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":3,"title":"Signature Salmon","slug":"signaturesalmon","unit":"1 lb","price":4.95,"salePrice":0.0,"discountInPercent":0.0,"description":"Salmon is a common food classified as an oily fish with a rich content of protein and omega-3 fatty acids","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg","gallery":[],"categories":[{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]}]},{"id":4,"title":"Cod Fillet","slug":"codfillet","unit":"1 lb","price":10.0,"salePrice":7.5,"discountInPercent":25.0,"description":"Cod is the common name for the demersal fish genus Gadus, belonging to the family Gadidae. Cod is also used as part of the common name for a number of other fish species, and some species suggested to belong to genus Gadus are not called cod.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg","gallery":[],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]}]},{"id":5,"title":"Fresh Beef","slug":"beef","unit":"1 lb","price":6.0,"salePrice":0.0,"discountInPercent":0.0,"description":"Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/beef_xkxhnb.jpg","gallery":[],"categories":[{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":10,"title":"Meat","slug":"meat","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":10,"title":"Meat","slug":"meat","product":[]}]}]
+2021-03-30 22:45:09 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 28277 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-30 22:45:09 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-30 22:45:09 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-30 22:45:10 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-30 22:45:12 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.947 seconds (JVM running for 4.217)
+2021-03-30 22:45:18 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()arguments : ["grocery"]
+2021-03-30 22:45:18 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()Response : [{"id":1,"title":"lime","slug":"lime","unit":"12 pc(s)","price":1.5,"salePrice":0.0,"discountInPercent":0.0,"description":"The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg","gallery":[{"url":" https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"}],"categories":[{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]}]},{"id":2,"title":"Cherry","slug":"Cherry","unit":"0.5 lb","price":2.0,"salePrice":0.0,"discountInPercent":0.0,"description":"A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg","gallery":[{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"}],"categories":[{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]}]},{"id":3,"title":"Signature Salmon","slug":"signaturesalmon","unit":"1 lb","price":4.95,"salePrice":0.0,"discountInPercent":0.0,"description":"Salmon is a common food classified as an oily fish with a rich content of protein and omega-3 fatty acids","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg","gallery":[],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]}]},{"id":4,"title":"Cod Fillet","slug":"codfillet","unit":"1 lb","price":10.0,"salePrice":7.5,"discountInPercent":25.0,"description":"Cod is the common name for the demersal fish genus Gadus, belonging to the family Gadidae. Cod is also used as part of the common name for a number of other fish species, and some species suggested to belong to genus Gadus are not called cod.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg","gallery":[],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]}]},{"id":5,"title":"Fresh Beef","slug":"beef","unit":"1 lb","price":6.0,"salePrice":0.0,"discountInPercent":0.0,"description":"Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/beef_xkxhnb.jpg","gallery":[],"categories":[{"id":10,"title":"Meat","slug":"meat","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]}]}]
+2021-03-30 22:45:31 [http-nio-5050-exec-3] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()arguments : ["grocery"]
+2021-03-30 22:45:31 [http-nio-5050-exec-3] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()Response : [{"id":1,"title":"lime","slug":"lime","unit":"12 pc(s)","price":1.5,"salePrice":0.0,"discountInPercent":0.0,"description":"The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg","gallery":[{"url":" https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"}],"categories":[{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":2,"title":"Cherry","slug":"Cherry","unit":"0.5 lb","price":2.0,"salePrice":0.0,"discountInPercent":0.0,"description":"A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg","gallery":[{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"}],"categories":[{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":3,"title":"Signature Salmon","slug":"signaturesalmon","unit":"1 lb","price":4.95,"salePrice":0.0,"discountInPercent":0.0,"description":"Salmon is a common food classified as an oily fish with a rich content of protein and omega-3 fatty acids","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg","gallery":[],"categories":[{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]}]},{"id":4,"title":"Cod Fillet","slug":"codfillet","unit":"1 lb","price":10.0,"salePrice":7.5,"discountInPercent":25.0,"description":"Cod is the common name for the demersal fish genus Gadus, belonging to the family Gadidae. Cod is also used as part of the common name for a number of other fish species, and some species suggested to belong to genus Gadus are not called cod.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg","gallery":[],"categories":[{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]}]},{"id":5,"title":"Fresh Beef","slug":"beef","unit":"1 lb","price":6.0,"salePrice":0.0,"discountInPercent":0.0,"description":"Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/beef_xkxhnb.jpg","gallery":[],"categories":[{"id":10,"title":"Meat","slug":"meat","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]}]}]

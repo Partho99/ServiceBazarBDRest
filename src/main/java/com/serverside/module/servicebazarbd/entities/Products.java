@@ -30,7 +30,7 @@ public class Products implements Serializable {
     @ManyToMany
     @JoinTable(name = "categories_product", joinColumns = @JoinColumn(name = "product_id", referencedColumnName = "id"),
             inverseJoinColumns = @JoinColumn(name = "categories_id", referencedColumnName = "id"))
-    private List<Categories> categories;
+    private Set<Categories> categories;
     @OneToMany(mappedBy = "product", fetch = FetchType.LAZY)
     private List<Reviews> reviews;
     @OneToMany(cascade = CascadeType.ALL)
@@ -146,11 +146,11 @@ public class Products implements Serializable {
         this.tags = tags;
     }
 
-    public List<Categories> getCategories() {
+    public Set<Categories> getCategories() {
         return categories;
     }
 
-    public void setCategories(List<Categories> categories) {
+    public void setCategories(Set<Categories> categories) {
         this.categories = categories;
     }
 

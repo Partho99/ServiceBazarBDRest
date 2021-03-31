@@ -1,0 +1,200 @@
+2021-03-29 21:42:14 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 11704 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-29 21:42:14 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-29 21:42:14 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-29 21:42:15 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-29 21:42:16 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.049 seconds (JVM running for 3.354)
+2021-03-29 21:42:33 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()arguments : ["grocery"]
+2021-03-29 21:42:33 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()Response : [{"id":1,"title":"lime","slug":"lime","unit":"12 pc(s)","price":1.5,"salePrice":0.0,"discountInPercent":0.0,"description":"The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg","gallery":[{"url":" https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"}],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":2,"title":"Cherry","slug":"Cherry","unit":"0.5 lb","price":2.0,"salePrice":0.0,"discountInPercent":0.0,"description":"A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg","gallery":[{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"}],"categories":[{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":3,"title":"Signature Salmon","slug":"signaturesalmon","unit":"1 lb","price":4.95,"salePrice":0.0,"discountInPercent":0.0,"description":"Salmon is a common food classified as an oily fish with a rich content of protein and omega-3 fatty acids","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg","gallery":[],"categories":[{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]}]},{"id":4,"title":"Cod Fillet","slug":"codfillet","unit":"1 lb","price":10.0,"salePrice":7.5,"discountInPercent":25.0,"description":"Cod is the common name for the demersal fish genus Gadus, belonging to the family Gadidae. Cod is also used as part of the common name for a number of other fish species, and some species suggested to belong to genus Gadus are not called cod.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg","gallery":[],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]}]},{"id":5,"title":"Fresh Beef","slug":"beef","unit":"1 lb","price":6.0,"salePrice":0.0,"discountInPercent":0.0,"description":"Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/beef_xkxhnb.jpg","gallery":[],"categories":[{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":10,"title":"Meat","slug":"meat","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":10,"title":"Meat","slug":"meat","product":[]}]}]
+2021-03-29 21:43:07 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 11834 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-29 21:43:07 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-29 21:43:07 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-29 21:43:08 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-29 21:43:10 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 2.946 seconds (JVM running for 3.23)
+2021-03-29 21:43:15 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()arguments : ["grocery"]
+2021-03-29 21:43:15 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : getProductsByItsCategoryType()Response : [{"id":1,"title":"lime","slug":"lime","unit":"12 pc(s)","price":1.5,"salePrice":0.0,"discountInPercent":0.0,"description":"The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg","gallery":[{"url":" https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"}],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":2,"title":"Cherry","slug":"Cherry","unit":"0.5 lb","price":2.0,"salePrice":0.0,"discountInPercent":0.0,"description":"A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg","gallery":[{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg"}],"categories":[{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":3,"title":"Fruits","slug":"fruits","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]},{"id":3,"title":"Signature Salmon","slug":"signaturesalmon","unit":"1 lb","price":4.95,"salePrice":0.0,"discountInPercent":0.0,"description":"Salmon is a common food classified as an oily fish with a rich content of protein and omega-3 fatty acids","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg","gallery":[],"categories":[{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]}]},{"id":4,"title":"Cod Fillet","slug":"codfillet","unit":"1 lb","price":10.0,"salePrice":7.5,"discountInPercent":25.0,"description":"Cod is the common name for the demersal fish genus Gadus, belonging to the family Gadidae. Cod is also used as part of the common name for a number of other fish species, and some species suggested to belong to genus Gadus are not called cod.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg","gallery":[],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":8,"title":"Fresh Fish","slug":"fresh-fish","product":[]}]},{"id":5,"title":"Fresh Beef","slug":"beef","unit":"1 lb","price":6.0,"salePrice":0.0,"discountInPercent":0.0,"description":"Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.","type":"grocery","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/beef_xkxhnb.jpg","gallery":[],"categories":[{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":10,"title":"Meat","slug":"meat","product":[]},{"id":5,"title":"Meat & Fish","slug":"meat-and-fish","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":10,"title":"Meat","slug":"meat","product":[]}]}]
+2021-03-29 21:43:25 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 21:43:25 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 21:44:40 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 11975 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-29 21:44:40 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-29 21:44:40 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-29 21:44:41 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-29 21:44:43 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.04 seconds (JVM running for 3.329)
+2021-03-29 21:44:49 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 21:44:49 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 21:44:49 [http-nio-5050-exec-1] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 19
+2021-03-29 21:45:02 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 21:45:02 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 21:45:02 [http-nio-5050-exec-2] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 1
+2021-03-29 21:46:46 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 12153 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-29 21:46:46 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-29 21:46:46 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-29 21:46:47 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-29 21:46:49 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 3.083 seconds (JVM running for 3.358)
+2021-03-29 21:46:53 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 21:46:53 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 21:46:53 [http-nio-5050-exec-1] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 19
+2021-03-29 21:46:56 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 21:46:56 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 21:46:56 [http-nio-5050-exec-2] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 2
+2021-03-29 21:46:59 [http-nio-5050-exec-3] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 21:46:59 [http-nio-5050-exec-3] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 21:46:59 [http-nio-5050-exec-3] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 1
+2021-03-29 22:48:52 [http-nio-5050-exec-6] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : showProductByItsSlug()arguments : ["grocery"]
+2021-03-29 22:48:52 [http-nio-5050-exec-6] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : showProductByItsSlug()Response : []
+2021-03-29 22:49:08 [http-nio-5050-exec-8] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : showProductByItsSlug()arguments : ["lime"]
+2021-03-29 22:49:08 [http-nio-5050-exec-8] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : showProductByItsSlug()Response : [{"id":1,"title":"lime","slug":"lime","unit":"12 pc(s)","price":1.5,"salePrice":0.0,"discountInPercent":0.0,"description":"The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.","type":"lime","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg","gallery":[{"url":" https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"}],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]}]
+2021-03-29 22:49:21 [http-nio-5050-exec-10] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : showProductByItsSlug()arguments : ["lime"]
+2021-03-29 22:49:21 [http-nio-5050-exec-10] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : showProductByItsSlug()Response : [{"id":1,"title":"lime","slug":"lime","unit":"12 pc(s)","price":1.5,"salePrice":0.0,"discountInPercent":0.0,"description":"The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.","type":"lime","image":"https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg","gallery":[{"url":" https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"},{"url":"https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg"}],"categories":[{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]},{"id":1,"title":"grocery","slug":"grocery","product":[]},{"id":4,"title":"vegetables","slug":"vegetables","product":[]},{"id":2,"title":"Fruits & Vegetables","slug":"fruits-and-vegetables","product":[]}]}]
+2021-03-29 22:54:16 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Starting ServicebazarbdApplication on My-Ubuntu with PID 15162 (/home/partho/Downloads/ServiceBazarBD-master/build/classes/java/main started by partho in /home/partho/Downloads/ServiceBazarBD-master)
+2021-03-29 22:54:16 [main] DEBUG c.s.m.s.ServicebazarbdApplication -
+                Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2021-03-29 22:54:16 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                No active profile set, falling back to default profiles: default
+2021-03-29 22:54:17 [main] INFO  c.s.m.servicebazarbd.utils.MathUtils -
+                MathUtils Application started ...
+2021-03-29 22:54:19 [main] INFO  c.s.m.s.ServicebazarbdApplication -
+                Started ServicebazarbdApplication in 2.952 seconds (JVM running for 3.235)
+2021-03-29 22:54:26 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:26 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:26 [http-nio-5050-exec-1] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 19
+2021-03-29 22:54:34 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:34 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:34 [http-nio-5050-exec-2] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 2
+2021-03-29 22:54:37 [http-nio-5050-exec-3] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:37 [http-nio-5050-exec-3] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:37 [http-nio-5050-exec-3] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 2
+2021-03-29 22:54:37 [http-nio-5050-exec-4] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:37 [http-nio-5050-exec-4] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:37 [http-nio-5050-exec-4] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 1
+2021-03-29 22:54:38 [http-nio-5050-exec-5] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:38 [http-nio-5050-exec-5] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:38 [http-nio-5050-exec-5] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 0
+2021-03-29 22:54:38 [http-nio-5050-exec-6] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:38 [http-nio-5050-exec-6] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:38 [http-nio-5050-exec-6] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 0
+2021-03-29 22:54:38 [http-nio-5050-exec-7] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:38 [http-nio-5050-exec-7] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:38 [http-nio-5050-exec-7] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 2
+2021-03-29 22:54:38 [http-nio-5050-exec-8] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:38 [http-nio-5050-exec-8] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:38 [http-nio-5050-exec-8] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 2
+2021-03-29 22:54:38 [http-nio-5050-exec-9] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:38 [http-nio-5050-exec-9] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:38 [http-nio-5050-exec-9] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 0
+2021-03-29 22:54:38 [http-nio-5050-exec-10] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:38 [http-nio-5050-exec-10] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:38 [http-nio-5050-exec-10] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 1
+2021-03-29 22:54:39 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:39 [http-nio-5050-exec-1] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:39 [http-nio-5050-exec-1] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 0
+2021-03-29 22:54:39 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:39 [http-nio-5050-exec-2] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:39 [http-nio-5050-exec-2] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 0
+2021-03-29 22:54:39 [http-nio-5050-exec-3] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:39 [http-nio-5050-exec-3] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:39 [http-nio-5050-exec-3] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 1
+2021-03-29 22:54:39 [http-nio-5050-exec-4] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:39 [http-nio-5050-exec-4] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:39 [http-nio-5050-exec-4] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 1
+2021-03-29 22:54:39 [http-nio-5050-exec-5] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:39 [http-nio-5050-exec-5] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:39 [http-nio-5050-exec-5] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 2
+2021-03-29 22:54:39 [http-nio-5050-exec-6] INFO  c.s.m.s.advices.LoggingAdvice -
+                Method invoked class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()arguments : []
+2021-03-29 22:54:39 [http-nio-5050-exec-6] INFO  c.s.m.s.advices.LoggingAdvice -
+                class com.serverside.module.servicebazarbd.resources.HomeResource : sayHello()Response : "Hello there!"
+2021-03-29 22:54:39 [http-nio-5050-exec-6] INFO  c.s.m.s.a.ExecutionTimeTrackerAdvice -
+                Method name String com.serverside.module.servicebazarbd.resources.HomeResource.sayHello() time to execute : 0
