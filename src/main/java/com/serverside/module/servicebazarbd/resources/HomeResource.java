@@ -9,15 +9,21 @@ import com.serverside.module.servicebazarbd.entities.Categories;
 import com.serverside.module.servicebazarbd.entities.Products;
 import com.serverside.module.servicebazarbd.repositories.CategoriesRepository;
 import com.serverside.module.servicebazarbd.repositories.ProductRepository;
+import com.serverside.module.servicebazarbd.services.ProductGraphqlService;
 import com.serverside.module.servicebazarbd.services.ProductService;
+import graphql.ExecutionResult;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 @CrossOrigin("*")
-@RequestMapping("/api")
+//@RequestMapping("/api")
 @RestController
 public class HomeResource {
     private final ProductRepository productRepository;
@@ -25,17 +31,21 @@ public class HomeResource {
     private final ProductService productService;
     private final ProductsConverter productsConverter;
     private final CategoriesConverter categoriesConverter;
+    private final ProductGraphqlService productGraphqlService;
 
+    @Autowired
     public HomeResource(ProductRepository productRepository,
                         CategoriesRepository categoriesRepository,
                         ProductService productService,
                         ProductsConverter productsConverter,
-                        CategoriesConverter categoriesConverter) {
+                        CategoriesConverter categoriesConverter,
+                        ProductGraphqlService productGraphqlService) {
         this.productRepository = productRepository;
         this.categoriesRepository = categoriesRepository;
         this.productService = productService;
         this.productsConverter = productsConverter;
         this.categoriesConverter = categoriesConverter;
+        this.productGraphqlService = productGraphqlService;
     }
 
     @GetMapping("/product/{slug}")
@@ -64,21 +74,33 @@ public class HomeResource {
 
     @GetMapping("/categories/{slug}")
     public List<CategoriesWithTypeDto> getCategories(@PathVariable String slug) {
-        long startTime = System.currentTimeMillis();
         List<Categories> categoriesList = categoriesRepository.findByType(slug);
         List<CategoriesWithTypeDto> categoriesWithTypeDtoList = categoriesConverter.entityToDto(categoriesList);
         categoriesWithTypeDtoList.stream().map(x -> {
             x.setType(slug);
             return x;
         }).collect(Collectors.toList());
-        long endTime = System.currentTimeMillis();
-        System.out.println(endTime - startTime);
         return categoriesWithTypeDtoList;
     }
 
-    @GetMapping(value = "/hello", produces = MediaType.APPLICATION_JSON_VALUE)
+    @GetMapping(value = "/allproducts", produces = MediaType.APPLICATION_JSON_VALUE)
     @ExecutionTimeTracker
-    public String sayHello() {
-        return "Hello there! anyone";
+    public List<ProductDto> allProducts() {
+        List<Products> products = productService.findAllProduct();
+        List<ProductDto> productDto = productsConverter.entityToDto(products);
+        return productDto;
+    }
+
+    @GetMapping(value = "/product/singleproduct/{id}")
+    public Optional<Products> findProductById(@PathVariable Long id) {
+        Optional<Products> products = productService.findProductById(id);
+        //Optional<ProductDto> productDto = Optional.ofNullable(productsConverter.entityToDto(products));
+        return products;
+    }
+
+    @PostMapping(value = "/product/graphql")
+    public ResponseEntity<?> findAllProductsUsingGraphql(@RequestBody String query){
+        ExecutionResult executionResult = productGraphqlService.getGraphQL().execute(query);
+        return new ResponseEntity<>(executionResult, HttpStatus.OK);
     }
 }

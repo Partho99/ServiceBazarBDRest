@@ -14,4 +14,6 @@ public interface ProductRepository extends JpaRepository<Products,Long> {
 
     @Query("select distinct p from  Products p left join p.categories c where  c.type=?1")
     List<Products> findByProductType(String type);
+
+    Optional<Products> findById(Long id);
 }

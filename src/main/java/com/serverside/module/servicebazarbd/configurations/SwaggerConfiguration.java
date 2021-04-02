@@ -4,9 +4,12 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import springfox.documentation.builders.PathSelectors;
 import springfox.documentation.builders.RequestHandlerSelectors;
+import springfox.documentation.service.ApiInfo;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
+
+import java.util.Collections;
 
 @Configuration
 @EnableSwagger2
@@ -19,7 +22,20 @@ public class SwaggerConfiguration {
                 .select()
                 .apis(RequestHandlerSelectors.basePackage("com.serverside.module.servicebazarbd.resources"))
                 .paths(PathSelectors.any())
-                .build();
+                .build()
+                .apiInfo(apiInfo());
+    }
+
+    private ApiInfo apiInfo() {
+        return new ApiInfo(
+                "Service bazar API",
+                "API for Ecommerce system",
+                "1.0.1",
+                "Free for all",
+                new springfox.documentation.service.Contact("Partho Das", "http://servicebazarbd.com", "partho.swe@gmail.com"),
+                "API License",
+                "http://servicebazarbd.com/license",
+                Collections.emptyList());
     }
 
 }
