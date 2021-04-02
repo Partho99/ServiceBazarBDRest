@@ -14,14 +14,14 @@ public class ProductDataFetcher implements DataFetcher<Optional<Products>> {
 
     private ProductService productService;
 
-    @Autowired
     public ProductDataFetcher(ProductService productService) {
         this.productService = productService;
     }
 
     @Override
     public Optional<Products> get(DataFetchingEnvironment environment) {
-        Long id = environment.getArgument("id");
-        return productService.findProductById(id);
+        Integer id = environment.getArgument("id");
+        Long lId = Long.valueOf(id);
+        return productService.findProductById(lId);
     }
 }
