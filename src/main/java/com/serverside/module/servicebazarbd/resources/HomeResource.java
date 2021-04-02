@@ -33,7 +33,6 @@ public class HomeResource {
     private final CategoriesConverter categoriesConverter;
     private final ProductGraphqlService productGraphqlService;
 
-    @Autowired
     public HomeResource(ProductRepository productRepository,
                         CategoriesRepository categoriesRepository,
                         ProductService productService,
@@ -99,6 +98,7 @@ public class HomeResource {
     }
 
     @PostMapping(value = "/product/graphql")
+    @ExecutionTimeTracker
     public ResponseEntity<?> findAllProductsUsingGraphql(@RequestBody String query){
         ExecutionResult executionResult = productGraphqlService.getGraphQL().execute(query);
         return new ResponseEntity<>(executionResult, HttpStatus.OK);

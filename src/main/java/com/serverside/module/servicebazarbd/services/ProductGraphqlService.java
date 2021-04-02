@@ -27,7 +27,6 @@ public class ProductGraphqlService {
     private AllProductsDataFetcher allProductsDataFetcher;
     private ProductDataFetcher productDataFetcher;
 
-    @Autowired
     public ProductGraphqlService(AllProductsDataFetcher allProductsDataFetcher, ProductDataFetcher productDataFetcher) {
         this.allProductsDataFetcher = allProductsDataFetcher;
         this.productDataFetcher = productDataFetcher;

@@ -14,7 +14,6 @@ public class AllProductsDataFetcher implements DataFetcher<List<Products>> {
 
     private ProductService productService;
 
-    @Autowired
     public AllProductsDataFetcher(ProductService productService) {
         this.productService = productService;
     }

@@ -16,5 +16,11 @@ type Products{
    unitWeight: Float
    price: Float
    description: String
+   categories: [Categories]
+}
 
+type Categories{
+   id: Int
+   slug: String
+   title: String
 }
