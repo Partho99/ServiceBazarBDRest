@@ -12,7 +12,6 @@ public class Products {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private Boolean activeStatus;
-    private String title;
     private String slug;
     private Double unitWeight;
     private String unit;
@@ -64,14 +63,6 @@ public class Products {
 
     public void setActiveStatus(Boolean activeStatus) {
         this.activeStatus = activeStatus;
-    }
-
-    public String getTitle() {
-        return title;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
     }
 
     public String getSlug() {
