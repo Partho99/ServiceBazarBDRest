@@ -201,26 +201,7 @@ public class Products {
         this.image = image;
     }
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        Products products = (Products) o;
-        return Objects.equals(id, products.id) && Objects.equals(activeStatus, products.activeStatus) &&
-                Objects.equals(title, products.title) && Objects.equals(slug, products.slug) &&
-                Objects.equals(unitWeight, products.unitWeight) && Objects.equals(unit, products.unit) &&
-                Objects.equals(description, products.description) && Objects.equals(discountInPercent, products.discountInPercent) &&
-                Objects.equals(price, products.price) && Objects.equals(salePrice, products.salePrice) && Objects.equals(image, products.image) &&
-                Objects.equals(gallery, products.gallery) && Objects.equals(tags, products.tags) && Objects.equals(categories, products.categories) &&
-                Objects.equals(reviews, products.reviews) && Objects.equals(optionTypesAndPrices, products.optionTypesAndPrices) &&
-                Objects.equals(faqs, products.faqs) && Objects.equals(termsAndConditions, products.termsAndConditions) &&
-                Objects.equals(discountCoupons, products.discountCoupons) && Objects.equals(details, products.details);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(id, activeStatus, title, slug, unitWeight, unit, description, discountInPercent, price, salePrice, image, gallery, tags, categories, reviews, optionTypesAndPrices, faqs, termsAndConditions, discountCoupons, details);
-    }
+  
 
 
 }
