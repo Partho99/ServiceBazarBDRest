@@ -222,29 +222,5 @@ public class Products {
         return Objects.hash(id, activeStatus, title, slug, unitWeight, unit, description, discountInPercent, price, salePrice, image, gallery, tags, categories, reviews, optionTypesAndPrices, faqs, termsAndConditions, discountCoupons, details);
     }
 
-    @Override
-    public String toString() {
-        return "Products{" +
-                "id=" + id +
-                ", activeStatus=" + activeStatus +
-                ", title='" + title + '\'' +
-                ", slug='" + slug + '\'' +
-                ", unitWeight=" + unitWeight +
-                ", unit='" + unit + '\'' +
-                ", description='" + description + '\'' +
-                ", discountInPercent=" + discountInPercent +
-                ", price=" + price +
-                ", salePrice=" + salePrice +
-                ", image='" + image + '\'' +
-                ", gallery=" + gallery +
-                ", tags=" + tags +
-                ", categories=" + categories +
-                ", reviews=" + reviews +
-                ", optionTypesAndPrices=" + optionTypesAndPrices +
-                ", faqs=" + faqs +
-                ", termsAndConditions=" + termsAndConditions +
-                ", discountCoupons=" + discountCoupons +
-                ", details='" + details + '\'' +
-                '}';
-    }
+
 }
