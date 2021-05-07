@@ -17,7 +17,7 @@ import java.util.List;
  */
 
 @Entity
-public class Categories implements Serializable {
+public class Categories  {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
